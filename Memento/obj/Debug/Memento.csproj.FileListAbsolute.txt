@@ -1,0 +1,8 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Memento\Memento\bin\Debug\Memento.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Memento\Memento\bin\Debug\Memento.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Memento\Memento\bin\Debug\Memento.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Memento\Memento\obj\Debug\Memento.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Memento\Memento\obj\Debug\Memento.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Memento\Memento\bin\Debug\Memento.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Memento\Memento\obj\Debug\Memento.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\Memento\Memento\obj\Debug\Memento.pdb
